@@ -1,2 +1,2 @@
-
-<img src="https://tenor.com/view/gato-trabaja-lento-gif-18148286.gif" width="40">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankiwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankiwi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
